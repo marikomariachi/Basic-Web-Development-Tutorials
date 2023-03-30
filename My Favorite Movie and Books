@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+<h1>Sefa Özer</h1> <!-- başlık -->
+<h3>Hakımda</h3> <!-- Alt başlık -->
+<p>Merhabalar.İsmim Sefa Özer.Bursada yaşıyorum.Programlama ile uğraşıyorum ve yeni sayılırım.Farklı programlama dillerinde belli bir deneyim seviyesine ulaşmak istiyorum. Yapay zeka ve Frontend üzerinde çalışıp ikisini kapsayacak projeler üretme düşüncesindeyim.Film izlemeyi ve kitap okumayı seviyorum. Müzikle uğraşmakta hobilerim arasında</p>
+
+
+<h2>Sevdiğim Filmler</h2>
+<h3>Constantine</h3>
+<p>Huzurlu bir ölüm yada yaşam için tanrı ile anlaşma yapan ve yeryüzündeki şeytani ruhlarla savaşa bir adamın hikayesini anlatıyor</p>
+
+<br>
+<p>John Constantine beni hep etkileyen bir karakter olmuştur.</p><br>
+<h2>Sevdiğim Kitaplar</h2>
+<p>-Yüzüklerin Efendisi Serisi</p>
+<p>-1984</p>
+<p>-Fahrenheit 451</p>
+
+</body>
+</html>
