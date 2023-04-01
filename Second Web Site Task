@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+<h1>Sefa Özer</h1> <!-- başlık -->
+<h3>Hakımda</h3> <!-- Alt başlık -->
+<p>Merhabalar.İsmim Sefa Özer.Bursada yaşıyorum.Programlama ile uğraşıyorum ve yeni sayılırım.Farklı programlama dillerinde belli bir deneyim seviyesine ulaşmak istiyorum. Yapay zeka ve Frontend üzerinde çalışıp ikisini kapsayacak projeler üretme düşüncesindeyim.Film izlemeyi ve kitap okumayı seviyorum. Müzikle uğraşmakta hobilerim arasında</p>
+
+<ol>
+    <li>Filmler
+        <ul>
+        <li>Constantine</li>
+        <li>Lord of the Rings</li>
+        <li>Matrix</li>
+    </ul>
+    </li>
+    <li>Diziler<ul>
+        <li>HIMYM</li>
+        <li>X Files</li>
+        <li>Vikingks</li>
+    </ul></li>
+    <li>Kitaplar <ul>
+        <li>Yüzüklerin Efendisi Serisi</li>
+        <li>1984</li>
+        <li>Fahrenheit 451</li>
+</ul></li>
+    
+</ol>
+<h2>Sevdiğim Filmler</h2>
+<h3>Constantine</h3>
+<img src="https://m.media-amazon.com/images/M/MV5BMzRhYzE2YTEtZjA4MC00MGRmLWJmNmYtM2EyODg5ZGM4MjFmXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" alt="Constantine İmage">
+<p>Huzurlu bir ölüm yada yaşam için tanrı ile anlaşma yapan ve yeryüzündeki şeytani ruhlarla savaşan bir adamın hikayesini anlatıyor</p>
+
+<a href="https://www.imdb.com/title/tt0120737/">IMDB</a>
+<h2>Sevdiğim Diziler</h2>
+<h3>HIMYM</h3>
+<img src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_.jpg" alt="Constantine İmage">
+<p>Durum komedisi türünde oldukça fazla beğeni toplayan bir dizi olan How İ Met Your Mother eğlenceli diyaloglar barındıran ve izlerken oldukça keyif almanızı sağlayacak bir dizidir.</p>
+
+<a href="https://www.imdb.com/title/tt0460649/">IMDB</a>
+
+
+
+
+</body>
+</html>
